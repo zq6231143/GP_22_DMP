@@ -1,63 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea2b5549-49d8-4201-a8c2-abc183539d68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jedis_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Appname/Appname.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Appname/TagApp.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Appname/TagstopWord.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/ETL/txt2Parquet.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Graphx/graph_test.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Request/LocationRept.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Request/client.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Request/devicetype.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Request/ispname.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Request/networkmannername.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/TagBusiness.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/TagContext2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/TagContext3.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/TagContext4.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/TagDevice.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/Tagadplatform.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/TagclientType.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/Tagisp.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/Tagnetwork.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/Tagprovincecity.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/TagsAd.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/TagsContext.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/Type.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/adplatformproviderid.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/isp.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/networkmannerid.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/splace.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/sqlContext.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tags/textBusiness.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/first_text/test1.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/first_text/test2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/gaode/Http_gaode.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/gaode/MapUtil.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/gaode/text.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/medium/meiti.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/medium/zidian.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/procitycount/procity.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/redis_idea/APP2Redis.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/redis_idea/JedisConectionPool.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/redis_idea/redis2idea2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/redis_idea/redis_idea.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/RptUtils.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/SchemaUtils.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/Tag.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/TagUtils.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/Utils2Type.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/作业/Graph_test.scala" afterDir="false" />
+    <list default="true" id="ea2b5549-49d8-4201-a8c2-abc183539d68" name="Default Changelist" comment="全部1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GP_22_DMP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GP_22_DMP.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -74,20 +19,7 @@
     <favorites_list name="GP_22_DMP" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/作业/Graph_test.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#16#81#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -191,8 +123,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="122" />
-    <option name="y" value="81" />
+    <option name="x" value="591" />
+    <option name="y" value="58" />
     <option name="width" value="1765" />
     <option name="height" value="1015" />
   </component>
@@ -204,7 +136,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope">
           <expand>
@@ -285,6 +216,39 @@
               <item name="GP_22_DMP" type="b2602c69:ProjectViewProjectNode" />
               <item name="GP_22_DMP" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="GP_22_DMP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GP_22_DMP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GP_22_DMP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GP_22_DMP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GP_22_DMP" type="58d84e3e:PackageViewProjectNode" />
+              <item name="GP_22_DMP" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="GP_22_DMP" type="58d84e3e:PackageViewProjectNode" />
+              <item name="GP_22_DMP" type="616d4139:PackageViewModuleNode" />
+              <item name="src" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="GP_22_DMP" type="58d84e3e:PackageViewProjectNode" />
+              <item name="GP_22_DMP" type="616d4139:PackageViewModuleNode" />
+              <item name="src" type="1f31426a:PackageElementNode" />
+              <item name="main" type="1f31426a:PackageElementNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -293,14 +257,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala1/com" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.51955307" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GP_22_DMP\src\main" />
       <recent name="D:\GP_22_DMP\src\main\resources" />
       <recent name="D:\GP_22_DMP" />
       <recent name="D:\GP_22_DMP\src" />
@@ -419,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566315044261</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="全部">
+      <created>1566964124664</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566964124664</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -432,9 +404,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="309" y="98" width="1412" height="812" extended-state="0" />
+    <frame x="622" y="93" width="1412" height="812" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49674267" visible="true" weight="0.25036928" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49674267" visible="true" weight="0.2533235" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -451,7 +423,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32935917" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3141593" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.875" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -466,7 +438,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="haha-测试" />
     <MESSAGE value="模板代码1" />
-    <option name="LAST_COMMIT_MESSAGE" value="模板代码1" />
+    <MESSAGE value="全部" />
+    <MESSAGE value="全部1" />
+    <option name="LAST_COMMIT_MESSAGE" value="全部1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GP_22_DMP$redis2idea2.ic" NAME="redis2idea2 Coverage Results" MODIFIED="1566723842727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
